@@ -3,4 +3,4 @@
 
 - Nama : Syaidah Khumairoh
 - NIM : 0110124010
-- Rombel : SI12
+- Rombel : SI12   
