@@ -1,0 +1,37 @@
+  1. Jelaskan apa yang dimaksud root?
+ Root adalah istilah yang digunakan untuk menggambarkan hak akses pada sistem operasi, Pengguna root dapat
+mengubah konfigurasi sistem, menginstal aplikasi, dan melakukan perubahan lain yang memerlukan hak akses administrator, 
+juga dapat mengakses semua file dan direktori di sistem, termasuk file yang dilindungi oleh sistem keamanan.
+
+  2. Pada Apache web server apakah dokumen root harus terletak di dalam direktori C:\xampp\htdocs?
+Tidak, dokumen root tidak harus terletak di dalam direktori C:\xampp\htdocs. Dokumen root
+adalah direktori yang berisi file-file yang dapat diakses melalui URL web server. Pada Apache, dokumen root dapat diatur melalui konfigurasi file httpd
+.conf atau httpd-vhosts.conf, dan dapat berbeda-beda tergantung pada
+konfigurasi web server.
+
+  3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote, add, commit, push, dan checkout.
+- Perintah git Init : untuk membuat repository baru di direktori yang sedang digunakan.
+- Perintah git Clone : untuk mengkloning repository yang sudah ada di server lain ke direktori lokal.
+- Perintah git Remote : untuk menghubungkan repository lokal dengan repository di server lain.
+- Perintah git Add : untuk menambahkan file yang ingin di commit ke dalam staging area.
+- Perintah git Commit untuk menyimpan perubahan-perubahan yang telah dilakukan distaging area ke dalam repository.
+- Perintah git Push untuk mengirimkan perubahan-perubahan yang telah dilakukan ke repository di server lain
+- Perintah git Checkout untuk mengubah branch yang sedang digunakan.
+
+  4. Jelaskan apa perbedaan GitHub dan GiLab?
+Dari pemiliknya saja sudah berbeda GitHub dimiliki oleh Microsoft model layanan berbasis cloud, sebagian besar layanan yang diakses gratis 
+sedangkan GitLab dimiliki oleh GitLab Inc fokus pada DevOps platform open-source, fitur dari github fokus pada repositori kode dan kolaborasi.
+sedangkan GitLab lebih banyak fitur DevOps termasuk CI/CD yang lebih mendalam, GitHub tampilan UI yang sederhana mudah digunakan  
+
+  5. Apa bedanya variable user dengan variable system?
+Variabel user adalah variabel yang digunakan untuk menyimpan informasi pengguna, seperti nama pengguna,
+password, dan lain-lain dan Variabel user biasanya disimpan di direktori /hom
+Sedangkan Variabel system adalah variabel yang digunakan untuk menyimpan informasi sistem, seperti nama sistem, versi sistem.
+
+
+  6. Apa persamaan variable system dengan variable constant?
+Persamaan matematis untuk menyatakan hubungan antara berbagai kuantitas atau faktor, membantu menyelesaikan solusi,
+digunakan untuk menyelesaikan masalah dalam sistem, dan digunakan untuk menentukan nilai dari variabel yang tidak diketahui.
+
+
+
